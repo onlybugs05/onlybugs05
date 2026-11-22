@@ -37,10 +37,10 @@ Focus Areas : Rust · Solana / EVM · Web3 Security · MEV · AI Agents / MCP
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[claude-bug-bounty](https://github.com/onlybugs05/claude-bug-bounty)** | Python, AI, Recon | AI-powered bug bounty hunting from your terminal — recon, 20 vuln classes & report generation |
-| **[delta-exchange-mcp](https://github.com/onlybugs05/delta-exchange-mcp)** | Python, MCP, DeFi | Model Context Protocol (MCP) server for Delta Exchange algorithmic trading & querying |
-| **[BioStack](https://github.com/onlybugs05/BioStack)** | HTML, CSS, JS | Open-source, self-hosted, privacy-first Linktree alternative |
-| **[Notes App for Bug Bounty](https://github.com/onlybugs05/Notes-App-For-BugBounty-hunting-)** | JavaScript, Web | Specialized note-taking app structured for bug bounty reconnaissance & methodology |
+| **[vuln-vortex](https://github.com/onlybugs05/vuln-vortex)** | Python, Security, Recon | Automated reconnaissance & vulnerability scanning suite for bug hunters & pentesters |
+| **[BioStack](https://github.com/onlybugs05/BioStack)** | HTML, CSS, JS | Open-source, self-hosted, privacy-first Linktree alternative — 100% owned & zero tracking |
+| **[AuraOTP-Decoder](https://github.com/onlybugs05/AuraOTP-Decoder)** | Python, Crypto | Security & reverse-engineering tool for decrypting and extracting 2FA tokens |
+| **[Notes App for Bug Bounty](https://github.com/onlybugs05/Notes-App-For-BugBounty-hunting-)** | JavaScript, Web | Specialized workspace & note-taking tool tailored for vulnerability research |
 
 ---
 
